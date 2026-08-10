@@ -42,7 +42,7 @@ pip install pandas yfinance matplotlib seaborn
 
 1.  **Clona el repositorio**:
     ```bash
-    git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+    git clone https://github.com/andalejo1103/retornos-diarios.git
     cd nombre_del_repositorio
     ```
 
