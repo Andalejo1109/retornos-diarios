@@ -22,6 +22,8 @@ Aunque los datos se descargan para un periodo futuro (2026-01-01 a 2026-08-07), 
     -   Evolución Acumulada Year-to-Date (YTD) con media móvil de 50 días.
     -   Rendimiento Mensual del Portafolio.
     -   Matriz de Correlación entre los activos del portafolio.
+ 
+    ![Gráfico de Desempeño Acumulado](desempeño_acumulado.png)
 
 ## Requisitos
 
